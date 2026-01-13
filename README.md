@@ -78,11 +78,11 @@ Make sure Python 3.x is installed.
 Install required libraries:
 '''bash
 pip install streamlit pickle
-bash'''
+'''
 
 Usage
 Run the following command in the project directory:
-'''
+'''bash
 streamlit run main.py
 '''
 
