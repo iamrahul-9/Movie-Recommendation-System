@@ -76,15 +76,15 @@ https://drive.google.com/file/d/1CEcORiagbVc9H8ymDJUl2BCC03TFrhN3/view?usp=share
 Make sure Python 3.x is installed.
 
 Install required libraries:
-'''bash
+```bash
 pip install streamlit pickle
-'''
+```
 
 Usage
 Run the following command in the project directory:
-'''bash
+```bash
 streamlit run main.py
-'''
+```
 
 ---
 
