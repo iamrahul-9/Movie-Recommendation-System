@@ -77,7 +77,7 @@ Make sure Python 3.x is installed.
 
 Install required libraries:
 ```bash
-pip install streamlit pickle
+pip install streamlit, pickle
 ```
 
 Usage
